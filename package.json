@@ -1,0 +1,15 @@
+{
+  "name": "receiptlinetutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ant2357",
+  "license": "MIT",
+  "dependencies": {
+    "receiptline": "^1.8.0",
+    "svgexport": "^0.4.2"
+  }
+}
